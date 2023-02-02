@@ -6,7 +6,7 @@
             </update>
         </info>
 
-        <elements name="Void-Power.xml" type="feats">
+        <elements name="Void-Power.xml" type="feat" id="ID_PIN_HB_FEAT_VOID_POWER">
             <description>
                 <p>As you took the gift from the dark one, now you can control the power given to you.</p>
                 <ul>
