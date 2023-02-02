@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+    <elements>
+        <info>
+            <update version="0.0.1">
+                <file name="Feats-Void-Power.xml" url=""/>
+            </update>
+        </info>
+
+        <elements name="Void-Power.xml" type="feats">
+            <description>
+                <p>As you took the gift from the dark one, now you can control the power given to you.</p>
+                <ul>
+                    <li><b>Shadow Step</b> as a bonus action you can move to a unoqupied space within
+30ft of you that you can see.</li>
+                    <li><b>Shadow Body</b> as a reaction you can avoid one attack that you choose.</li>
+                </ul>
+                <p>you can use this ability equal to your proficiency modifier</p>
+            </description>
+        </elements>
+    </elements>
