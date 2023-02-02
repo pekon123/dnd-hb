@@ -2,7 +2,7 @@
     <elements>
         <info>
             <update version="0.0.1">
-                <file name="Feats-Void-Power.xml" url="https://github.com/pekon123/dnd-hb/blob/main/void-power.xml"/>
+                <file name="Feats-Void-Power.xml" url="https://raw.githubusercontent.com/pekon123/dnd-hb/main/void-power.xml"/>
             </update>
         </info>
 
